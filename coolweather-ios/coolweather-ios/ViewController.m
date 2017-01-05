@@ -12,7 +12,6 @@
 #import "Cell2.h"
 #import "Cell3.h"
 #import "Cell4.h"
-#import "DataModels.h"
 #import "AFN_Helper_Z.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource,UIScrollViewDelegate,LLBlurSidebarDelegate>

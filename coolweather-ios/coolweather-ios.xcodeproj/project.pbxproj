@@ -18,28 +18,6 @@
 		E80590AD1E1E38D00083F222 /* Cell2.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590AC1E1E38D00083F222 /* Cell2.m */; };
 		E80590B01E1E38E00083F222 /* Cell3.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590AF1E1E38E00083F222 /* Cell3.m */; };
 		E80590B31E1E38EE0083F222 /* Cell4.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590B21E1E38EE0083F222 /* Cell4.m */; };
-		E80590E11E1E3F260083F222 /* twoAir.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590B61E1E3F260083F222 /* twoAir.m */; };
-		E80590E21E1E3F260083F222 /* twoAqi.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590B81E1E3F260083F222 /* twoAqi.m */; };
-		E80590E31E1E3F260083F222 /* twoAstro.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590BA1E1E3F260083F222 /* twoAstro.m */; };
-		E80590E41E1E3F260083F222 /* twoBasic.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590BC1E1E3F260083F222 /* twoBasic.m */; };
-		E80590E51E1E3F260083F222 /* twoCity.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590BE1E1E3F260083F222 /* twoCity.m */; };
-		E80590E61E1E3F260083F222 /* twoComf.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590C01E1E3F260083F222 /* twoComf.m */; };
-		E80590E71E1E3F260083F222 /* twoCond.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590C21E1E3F260083F222 /* twoCond.m */; };
-		E80590E81E1E3F260083F222 /* twoCw.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590C41E1E3F260083F222 /* twoCw.m */; };
-		E80590E91E1E3F260083F222 /* twoDailyForecast.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590C61E1E3F260083F222 /* twoDailyForecast.m */; };
-		E80590EA1E1E3F260083F222 /* twoDrsg.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590C81E1E3F260083F222 /* twoDrsg.m */; };
-		E80590EB1E1E3F260083F222 /* twoFlu.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590CA1E1E3F260083F222 /* twoFlu.m */; };
-		E80590EC1E1E3F260083F222 /* twoHeWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590CC1E1E3F260083F222 /* twoHeWeather.m */; };
-		E80590ED1E1E3F260083F222 /* twoHourlyForecast.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590CE1E1E3F260083F222 /* twoHourlyForecast.m */; };
-		E80590EE1E1E3F260083F222 /* twoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590D01E1E3F260083F222 /* twoModel.m */; };
-		E80590EF1E1E3F260083F222 /* twoNow.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590D21E1E3F260083F222 /* twoNow.m */; };
-		E80590F01E1E3F260083F222 /* twoSport.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590D41E1E3F260083F222 /* twoSport.m */; };
-		E80590F11E1E3F260083F222 /* twoSuggestion.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590D61E1E3F260083F222 /* twoSuggestion.m */; };
-		E80590F21E1E3F260083F222 /* twoTmp.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590D81E1E3F260083F222 /* twoTmp.m */; };
-		E80590F31E1E3F260083F222 /* twoTrav.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590DA1E1E3F260083F222 /* twoTrav.m */; };
-		E80590F41E1E3F260083F222 /* twoUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590DC1E1E3F260083F222 /* twoUpdate.m */; };
-		E80590F51E1E3F260083F222 /* twoUv.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590DE1E1E3F260083F222 /* twoUv.m */; };
-		E80590F61E1E3F260083F222 /* twoWind.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590E01E1E3F260083F222 /* twoWind.m */; };
 		E80590F91E1E456B0083F222 /* AFN_Helper_Z.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590F81E1E456B0083F222 /* AFN_Helper_Z.m */; };
 		E80590FC1E1E461D0083F222 /* MyHttpModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E80590FB1E1E461D0083F222 /* MyHttpModel.m */; };
 		E8FFCB481E1E106500BDBF44 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E8FFCB471E1E106500BDBF44 /* main.m */; };
@@ -94,51 +72,6 @@
 		E80590AF1E1E38E00083F222 /* Cell3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell3.m; sourceTree = "<group>"; };
 		E80590B11E1E38EE0083F222 /* Cell4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell4.h; sourceTree = "<group>"; };
 		E80590B21E1E38EE0083F222 /* Cell4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell4.m; sourceTree = "<group>"; };
-		E80590B41E1E3F260083F222 /* DataModels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataModels.h; sourceTree = "<group>"; };
-		E80590B51E1E3F260083F222 /* twoAir.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoAir.h; sourceTree = "<group>"; };
-		E80590B61E1E3F260083F222 /* twoAir.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoAir.m; sourceTree = "<group>"; };
-		E80590B71E1E3F260083F222 /* twoAqi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoAqi.h; sourceTree = "<group>"; };
-		E80590B81E1E3F260083F222 /* twoAqi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoAqi.m; sourceTree = "<group>"; };
-		E80590B91E1E3F260083F222 /* twoAstro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoAstro.h; sourceTree = "<group>"; };
-		E80590BA1E1E3F260083F222 /* twoAstro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoAstro.m; sourceTree = "<group>"; };
-		E80590BB1E1E3F260083F222 /* twoBasic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoBasic.h; sourceTree = "<group>"; };
-		E80590BC1E1E3F260083F222 /* twoBasic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoBasic.m; sourceTree = "<group>"; };
-		E80590BD1E1E3F260083F222 /* twoCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoCity.h; sourceTree = "<group>"; };
-		E80590BE1E1E3F260083F222 /* twoCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoCity.m; sourceTree = "<group>"; };
-		E80590BF1E1E3F260083F222 /* twoComf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoComf.h; sourceTree = "<group>"; };
-		E80590C01E1E3F260083F222 /* twoComf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoComf.m; sourceTree = "<group>"; };
-		E80590C11E1E3F260083F222 /* twoCond.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoCond.h; sourceTree = "<group>"; };
-		E80590C21E1E3F260083F222 /* twoCond.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoCond.m; sourceTree = "<group>"; };
-		E80590C31E1E3F260083F222 /* twoCw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoCw.h; sourceTree = "<group>"; };
-		E80590C41E1E3F260083F222 /* twoCw.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoCw.m; sourceTree = "<group>"; };
-		E80590C51E1E3F260083F222 /* twoDailyForecast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoDailyForecast.h; sourceTree = "<group>"; };
-		E80590C61E1E3F260083F222 /* twoDailyForecast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoDailyForecast.m; sourceTree = "<group>"; };
-		E80590C71E1E3F260083F222 /* twoDrsg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoDrsg.h; sourceTree = "<group>"; };
-		E80590C81E1E3F260083F222 /* twoDrsg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoDrsg.m; sourceTree = "<group>"; };
-		E80590C91E1E3F260083F222 /* twoFlu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoFlu.h; sourceTree = "<group>"; };
-		E80590CA1E1E3F260083F222 /* twoFlu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoFlu.m; sourceTree = "<group>"; };
-		E80590CB1E1E3F260083F222 /* twoHeWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoHeWeather.h; sourceTree = "<group>"; };
-		E80590CC1E1E3F260083F222 /* twoHeWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoHeWeather.m; sourceTree = "<group>"; };
-		E80590CD1E1E3F260083F222 /* twoHourlyForecast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoHourlyForecast.h; sourceTree = "<group>"; };
-		E80590CE1E1E3F260083F222 /* twoHourlyForecast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoHourlyForecast.m; sourceTree = "<group>"; };
-		E80590CF1E1E3F260083F222 /* twoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoModel.h; sourceTree = "<group>"; };
-		E80590D01E1E3F260083F222 /* twoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoModel.m; sourceTree = "<group>"; };
-		E80590D11E1E3F260083F222 /* twoNow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoNow.h; sourceTree = "<group>"; };
-		E80590D21E1E3F260083F222 /* twoNow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoNow.m; sourceTree = "<group>"; };
-		E80590D31E1E3F260083F222 /* twoSport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoSport.h; sourceTree = "<group>"; };
-		E80590D41E1E3F260083F222 /* twoSport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoSport.m; sourceTree = "<group>"; };
-		E80590D51E1E3F260083F222 /* twoSuggestion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoSuggestion.h; sourceTree = "<group>"; };
-		E80590D61E1E3F260083F222 /* twoSuggestion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoSuggestion.m; sourceTree = "<group>"; };
-		E80590D71E1E3F260083F222 /* twoTmp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoTmp.h; sourceTree = "<group>"; };
-		E80590D81E1E3F260083F222 /* twoTmp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoTmp.m; sourceTree = "<group>"; };
-		E80590D91E1E3F260083F222 /* twoTrav.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoTrav.h; sourceTree = "<group>"; };
-		E80590DA1E1E3F260083F222 /* twoTrav.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoTrav.m; sourceTree = "<group>"; };
-		E80590DB1E1E3F260083F222 /* twoUpdate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoUpdate.h; sourceTree = "<group>"; };
-		E80590DC1E1E3F260083F222 /* twoUpdate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoUpdate.m; sourceTree = "<group>"; };
-		E80590DD1E1E3F260083F222 /* twoUv.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoUv.h; sourceTree = "<group>"; };
-		E80590DE1E1E3F260083F222 /* twoUv.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoUv.m; sourceTree = "<group>"; };
-		E80590DF1E1E3F260083F222 /* twoWind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = twoWind.h; sourceTree = "<group>"; };
-		E80590E01E1E3F260083F222 /* twoWind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = twoWind.m; sourceTree = "<group>"; };
 		E80590F71E1E456B0083F222 /* AFN_Helper_Z.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFN_Helper_Z.h; sourceTree = "<group>"; };
 		E80590F81E1E456B0083F222 /* AFN_Helper_Z.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFN_Helper_Z.m; sourceTree = "<group>"; };
 		E80590FA1E1E461D0083F222 /* MyHttpModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyHttpModel.h; sourceTree = "<group>"; };
@@ -303,51 +236,6 @@
 		E8FFCB821E1E153800BDBF44 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				E80590B41E1E3F260083F222 /* DataModels.h */,
-				E80590B51E1E3F260083F222 /* twoAir.h */,
-				E80590B61E1E3F260083F222 /* twoAir.m */,
-				E80590B71E1E3F260083F222 /* twoAqi.h */,
-				E80590B81E1E3F260083F222 /* twoAqi.m */,
-				E80590B91E1E3F260083F222 /* twoAstro.h */,
-				E80590BA1E1E3F260083F222 /* twoAstro.m */,
-				E80590BB1E1E3F260083F222 /* twoBasic.h */,
-				E80590BC1E1E3F260083F222 /* twoBasic.m */,
-				E80590BD1E1E3F260083F222 /* twoCity.h */,
-				E80590BE1E1E3F260083F222 /* twoCity.m */,
-				E80590BF1E1E3F260083F222 /* twoComf.h */,
-				E80590C01E1E3F260083F222 /* twoComf.m */,
-				E80590C11E1E3F260083F222 /* twoCond.h */,
-				E80590C21E1E3F260083F222 /* twoCond.m */,
-				E80590C31E1E3F260083F222 /* twoCw.h */,
-				E80590C41E1E3F260083F222 /* twoCw.m */,
-				E80590C51E1E3F260083F222 /* twoDailyForecast.h */,
-				E80590C61E1E3F260083F222 /* twoDailyForecast.m */,
-				E80590C71E1E3F260083F222 /* twoDrsg.h */,
-				E80590C81E1E3F260083F222 /* twoDrsg.m */,
-				E80590C91E1E3F260083F222 /* twoFlu.h */,
-				E80590CA1E1E3F260083F222 /* twoFlu.m */,
-				E80590CB1E1E3F260083F222 /* twoHeWeather.h */,
-				E80590CC1E1E3F260083F222 /* twoHeWeather.m */,
-				E80590CD1E1E3F260083F222 /* twoHourlyForecast.h */,
-				E80590CE1E1E3F260083F222 /* twoHourlyForecast.m */,
-				E80590CF1E1E3F260083F222 /* twoModel.h */,
-				E80590D01E1E3F260083F222 /* twoModel.m */,
-				E80590D11E1E3F260083F222 /* twoNow.h */,
-				E80590D21E1E3F260083F222 /* twoNow.m */,
-				E80590D31E1E3F260083F222 /* twoSport.h */,
-				E80590D41E1E3F260083F222 /* twoSport.m */,
-				E80590D51E1E3F260083F222 /* twoSuggestion.h */,
-				E80590D61E1E3F260083F222 /* twoSuggestion.m */,
-				E80590D71E1E3F260083F222 /* twoTmp.h */,
-				E80590D81E1E3F260083F222 /* twoTmp.m */,
-				E80590D91E1E3F260083F222 /* twoTrav.h */,
-				E80590DA1E1E3F260083F222 /* twoTrav.m */,
-				E80590DB1E1E3F260083F222 /* twoUpdate.h */,
-				E80590DC1E1E3F260083F222 /* twoUpdate.m */,
-				E80590DD1E1E3F260083F222 /* twoUv.h */,
-				E80590DE1E1E3F260083F222 /* twoUv.m */,
-				E80590DF1E1E3F260083F222 /* twoWind.h */,
-				E80590E01E1E3F260083F222 /* twoWind.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -522,42 +410,20 @@
 				E80590A51E1E2CE90083F222 /* AFURLRequestSerialization.m in Sources */,
 				E8FFCB871E1E158800BDBF44 /* SiderbarVC.m in Sources */,
 				E8FFCB4E1E1E106500BDBF44 /* ViewController.m in Sources */,
-				E80590E51E1E3F260083F222 /* twoCity.m in Sources */,
-				E80590E71E1E3F260083F222 /* twoCond.m in Sources */,
-				E80590E21E1E3F260083F222 /* twoAqi.m in Sources */,
-				E80590E81E1E3F260083F222 /* twoCw.m in Sources */,
 				E80590AA1E1E38C20083F222 /* Cell1.m in Sources */,
 				E8FFCB8B1E1E15B800BDBF44 /* LLBlurSidebar.m in Sources */,
 				E80590FC1E1E461D0083F222 /* MyHttpModel.m in Sources */,
-				E80590E91E1E3F260083F222 /* twoDailyForecast.m in Sources */,
-				E80590F21E1E3F260083F222 /* twoTmp.m in Sources */,
-				E80590F01E1E3F260083F222 /* twoSport.m in Sources */,
-				E80590EE1E1E3F260083F222 /* twoModel.m in Sources */,
-				E80590F11E1E3F260083F222 /* twoSuggestion.m in Sources */,
-				E80590E31E1E3F260083F222 /* twoAstro.m in Sources */,
 				E80590A71E1E2CE90083F222 /* AFURLSessionManager.m in Sources */,
 				E80590A61E1E2CE90083F222 /* AFURLResponseSerialization.m in Sources */,
 				E80590AD1E1E38D00083F222 /* Cell2.m in Sources */,
-				E80590E41E1E3F260083F222 /* twoBasic.m in Sources */,
-				E80590EA1E1E3F260083F222 /* twoDrsg.m in Sources */,
 				E80590A31E1E2CE90083F222 /* AFNetworkReachabilityManager.m in Sources */,
-				E80590EC1E1E3F260083F222 /* twoHeWeather.m in Sources */,
-				E80590E11E1E3F260083F222 /* twoAir.m in Sources */,
-				E80590F61E1E3F260083F222 /* twoWind.m in Sources */,
 				E80590F91E1E456B0083F222 /* AFN_Helper_Z.m in Sources */,
 				E80590B31E1E38EE0083F222 /* Cell4.m in Sources */,
 				E80590A41E1E2CE90083F222 /* AFSecurityPolicy.m in Sources */,
 				E80590A21E1E2CE90083F222 /* AFHTTPSessionManager.m in Sources */,
-				E80590F41E1E3F260083F222 /* twoUpdate.m in Sources */,
-				E80590F51E1E3F260083F222 /* twoUv.m in Sources */,
-				E80590EF1E1E3F260083F222 /* twoNow.m in Sources */,
-				E80590ED1E1E3F260083F222 /* twoHourlyForecast.m in Sources */,
-				E80590E61E1E3F260083F222 /* twoComf.m in Sources */,
 				E80590B01E1E38E00083F222 /* Cell3.m in Sources */,
 				E8FFCB4B1E1E106500BDBF44 /* AppDelegate.m in Sources */,
-				E80590EB1E1E3F260083F222 /* twoFlu.m in Sources */,
 				E8FFCB481E1E106500BDBF44 /* main.m in Sources */,
-				E80590F31E1E3F260083F222 /* twoTrav.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
