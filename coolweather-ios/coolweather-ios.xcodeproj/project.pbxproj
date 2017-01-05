@@ -15,6 +15,8 @@
 		E8FFCB561E1E106500BDBF44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8FFCB541E1E106500BDBF44 /* LaunchScreen.storyboard */; };
 		E8FFCB611E1E106500BDBF44 /* coolweather_iosTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E8FFCB601E1E106500BDBF44 /* coolweather_iosTests.m */; };
 		E8FFCB6C1E1E106500BDBF44 /* coolweather_iosUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E8FFCB6B1E1E106500BDBF44 /* coolweather_iosUITests.m */; };
+		E8FFCB871E1E158800BDBF44 /* SiderbarVC.m in Sources */ = {isa = PBXBuildFile; fileRef = E8FFCB861E1E158800BDBF44 /* SiderbarVC.m */; };
+		E8FFCB8B1E1E15B800BDBF44 /* LLBlurSidebar.m in Sources */ = {isa = PBXBuildFile; fileRef = E8FFCB8A1E1E15B800BDBF44 /* LLBlurSidebar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,10 @@
 		E8FFCB671E1E106500BDBF44 /* coolweather-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "coolweather-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8FFCB6B1E1E106500BDBF44 /* coolweather_iosUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = coolweather_iosUITests.m; sourceTree = "<group>"; };
 		E8FFCB6D1E1E106500BDBF44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8FFCB851E1E158800BDBF44 /* SiderbarVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SiderbarVC.h; sourceTree = "<group>"; };
+		E8FFCB861E1E158800BDBF44 /* SiderbarVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SiderbarVC.m; sourceTree = "<group>"; };
+		E8FFCB891E1E15B800BDBF44 /* LLBlurSidebar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLBlurSidebar.h; sourceTree = "<group>"; };
+		E8FFCB8A1E1E15B800BDBF44 /* LLBlurSidebar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLBlurSidebar.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +107,9 @@
 		E8FFCB451E1E106500BDBF44 /* coolweather-ios */ = {
 			isa = PBXGroup;
 			children = (
+				E8FFCB841E1E155500BDBF44 /* Controllers */,
+				E8FFCB831E1E154200BDBF44 /* Views */,
+				E8FFCB821E1E153800BDBF44 /* Models */,
 				E8FFCB7A1E1E10C300BDBF44 /* until */,
 				E8FFCB491E1E106500BDBF44 /* AppDelegate.h */,
 				E8FFCB4A1E1E106500BDBF44 /* AppDelegate.m */,
@@ -144,8 +153,41 @@
 		E8FFCB7A1E1E10C300BDBF44 /* until */ = {
 			isa = PBXGroup;
 			children = (
+				E8FFCB881E1E15AC00BDBF44 /* LLBlurSidebar */,
 			);
 			path = until;
+			sourceTree = "<group>";
+		};
+		E8FFCB821E1E153800BDBF44 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E8FFCB831E1E154200BDBF44 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E8FFCB841E1E155500BDBF44 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E8FFCB851E1E158800BDBF44 /* SiderbarVC.h */,
+				E8FFCB861E1E158800BDBF44 /* SiderbarVC.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E8FFCB881E1E15AC00BDBF44 /* LLBlurSidebar */ = {
+			isa = PBXGroup;
+			children = (
+				E8FFCB891E1E15B800BDBF44 /* LLBlurSidebar.h */,
+				E8FFCB8A1E1E15B800BDBF44 /* LLBlurSidebar.m */,
+			);
+			path = LLBlurSidebar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -281,7 +323,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8FFCB871E1E158800BDBF44 /* SiderbarVC.m in Sources */,
 				E8FFCB4E1E1E106500BDBF44 /* ViewController.m in Sources */,
+				E8FFCB8B1E1E15B800BDBF44 /* LLBlurSidebar.m in Sources */,
 				E8FFCB4B1E1E106500BDBF44 /* AppDelegate.m in Sources */,
 				E8FFCB481E1E106500BDBF44 /* main.m in Sources */,
 			);

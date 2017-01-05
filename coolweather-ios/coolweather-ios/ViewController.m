@@ -7,8 +7,10 @@
 //
 
 #import "ViewController.h"
-
+#import "SiderbarVC.h"
 @interface ViewController ()
+
+@property (nonatomic, retain) SiderbarVC *sidebarVC;
 
 @end
 
