@@ -8,6 +8,12 @@
 
 #import "LLBlurSidebar.h"
 
+@protocol LLBlurSidebarDelegate <NSObject>
+@optional
+- (void)getTheNumber:(NSString *)numberString;
+@end
+
 @interface SiderbarVC : LLBlurSidebar
+@property (nonatomic,unsafe_unretained) id<LLBlurSidebarDelegate>delegate;
 
 @end

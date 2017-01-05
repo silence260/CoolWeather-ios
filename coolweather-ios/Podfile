@@ -1,0 +1,5 @@
+platform :ios,'7.0'
+pod 'AFNetworking', '~> 3.1.0'              #数据请求
+pod 'MBProgressHUD', '~> 1.0.0'             #提示框架
+pod 'SDWebImage', '~> 3.8.2'                #图片异步加载
+pod 'MJRefresh', '~> 3.1.12'                #上下拉刷新
